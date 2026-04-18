@@ -1,3 +1,16 @@
+# MojeeBot V1 Firmware
+# Version: 1.0.0
+# Board: Cytron Maker Pi RP2040
+# Tested with:
+# - Right motor on M1
+# - Left motor on M2
+# - Right encoder on Grove 6
+# - Left encoder on Grove 2
+# - Ultrasonic on Grove 1
+
+# Encoder wire mapping used in this build:
+# Black=VCC, Blue=GND, Green=A, Yellow=B
+
 import time
 import board
 import pwmio
