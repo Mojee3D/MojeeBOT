@@ -2,7 +2,8 @@ MojeeBOT V1
 
 Print It. Build It. Code It.
 
-<img width="5712" height="4284" alt="IMG_3066" src="https://github.com/user-attachments/assets/48c7aaaf-0778-4d2d-be0f-6c2e6679f8d0" />
+<img width="1428" height="1070" alt="Github Image" src="https://github.com/user-attachments/assets/e1b686b2-b098-49c8-acef-38b3fbe0ab2b" />
+
 
 MojeeBOT V1 is an open-source, 3D-printable robot platform designed for makers, students, and educators. It brings together 3D printing, electronics, and coding into one hands-on project that’s easy to build and ready to expand.
 
